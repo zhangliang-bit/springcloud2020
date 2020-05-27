@@ -115,6 +115,11 @@ under the License.
       <module filepath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/cloud-consumer-hystrix-dashboard9001.iml"/>
       <module filepath="$PROJECT_DIR$/cloud-gateway-gateway9527/cloud-gateway-gateway9527.iml"/>
       <module filepath="$PROJECT_DIR$/cloud-config-center-3344/cloud-config-center-3344.iml"/>
+      <module filepath="$PROJECT_DIR$/cloud-config-client-3355/cloud-config-client-3355.iml"/>
+      <module filepath="$PROJECT_DIR$/cloud-config-client-3366/cloud-config-client-3366.iml"/>
+      <module filepath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/cloud-stream-rabbitmq-provider8801.iml"/>
+      <module filepath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/cloud-stream-rabbitmq-consumer8802.iml"/>
+      <module filepath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/cloud-stream-rabbitmq-consumer8803.iml"/>
     </modules> 
   </component>  
   <UsedPathMacros> 
